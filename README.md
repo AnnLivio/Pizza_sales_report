@@ -4,6 +4,10 @@
 A fictitious dataset with 1 fact table and 3 dimension tables: they include date and time of each order and the pizzas served, additional details on the type, size, quantity, price and ingredients.
 4 files: orders.csv, order_details.csv, pizzas.csv and pizza_types.csv
 
+## Files
+### Pizza_sales.ipnyb / EDA with pandas 
+### Pizza_sales_sqilite.ipynb / EDA with sql
+
 ## Recommended Analysis
 + How many customers do we have each day? Are there any peak hours?
 
