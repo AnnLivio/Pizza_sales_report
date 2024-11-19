@@ -5,8 +5,9 @@ A fictitious dataset with 1 fact table and 3 dimension tables: they include date
 4 files: orders.csv, order_details.csv, pizzas.csv and pizza_types.csv
 
 ## Files
-### Pizza_sales.ipnyb / EDA with pandas 
-### Pizza_sales_sqilite.ipynb / EDA with sql
++ *Pizza_sales.ipynb / EDA and Visualization with pandas*
++ *Pizza_sales_sqilite.ipynb / EDA with sql*
++  *Pizza_sales_prophet.ipynb / Sales prediction model using Prophet*
 
 ## Recommended Analysis
 + How many customers do we have each day? Are there any peak hours?
